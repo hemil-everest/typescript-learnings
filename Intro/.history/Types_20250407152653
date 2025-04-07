@@ -1,0 +1,5 @@
+Types:
+
+Number, String, Boolean, Null, Undefined, Void, object, Array, Tuples ..
+
+* Any, Never, Unknown
