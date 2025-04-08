@@ -1,0 +1,16 @@
+let score: number | string | boolean = 33;
+score = 44;
+
+
+type User2= {
+    userName: string;
+    id: number;
+}
+
+type Admin= {
+    userName: string;
+    id: number;
+}
+
+let hemil: User2 | Admin = { name: "hemil", id: 1 }
+hemil = {name: "h", id: 2}  
