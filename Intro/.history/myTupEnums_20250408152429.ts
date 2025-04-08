@@ -1,0 +1,1 @@
+const user: (string | number)[] = ["John", 30];
