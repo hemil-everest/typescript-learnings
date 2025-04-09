@@ -1,0 +1,4 @@
+interface TakePhoto{
+    cameraMode: string;
+
+}
